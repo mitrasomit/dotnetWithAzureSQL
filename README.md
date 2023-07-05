@@ -1,3 +1,4 @@
 # dotnetWithAzureSQL
 
-This is for Azure SQL with .net connectivity 
+This is for Azure SQL with .net connectivity.
+
